@@ -1,4 +1,0 @@
-This file should be updated with resources we use for research (docs, tutorials, videos maybe??, etc...)
-
-
-https://en.cppreference.com/w/cpp/filesystem/path
