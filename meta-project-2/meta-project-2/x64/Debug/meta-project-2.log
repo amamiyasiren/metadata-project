@@ -1,0 +1,5 @@
+﻿  meta-project-2.cpp
+C:\Users\rjrba\source\repos\meta-project-2\meta-project-2.cpp(43,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  meta-project-2.vcxproj -> C:\Users\rjrba\source\repos\meta-project-2\x64\Debug\meta-project-2.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
