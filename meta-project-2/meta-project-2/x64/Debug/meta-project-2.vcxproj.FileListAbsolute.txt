@@ -1,3 +1,0 @@
-C:\Users\rjrba\source\repos\meta-project-2\x64\Debug\tag.dll
-C:\Users\rjrba\source\repos\meta-project-2\x64\Debug\zlibd1.dll
-C:\Users\rjrba\source\repos\meta-project-2\meta-project-2\x64\Debug\meta-pro.BCA5C6C6.Up2Date
